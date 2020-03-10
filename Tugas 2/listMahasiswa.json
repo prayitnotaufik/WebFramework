@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "1741720107",
+      "nama": "Muhammad Taufik P",
+      "alamat": "Jl Semanggi Barat",
+      "hp": "0899288819",
+      "angkatan": "2017",
+      "status": "aktif",
+      "id": "1741720107"
+    },
+    {
+      "nim": "1444",
+      "nama": "test",
+      "alamat": "4141",
+      "hp": "41414",
+      "angkatan": "1414",
+      "status": "aktif",
+      "id": "1444"
+    }
+  ]
+}
