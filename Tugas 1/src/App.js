@@ -42,7 +42,7 @@ class App extends Component {
 
               <div class="col-md-6 content">
                 <h2>Mengulas sedikit tentang saya, dari pemarah hingga menjadi periang</h2>
-                <h3>Perlu dicatat, dari Sekolah Dasar hingga SMP saya terkenal pemarah.</h3>
+                <h3>Nama saya Muhammad Taufik Prayitno, pemuda keren yang lahir di akhir era 90-an</h3>
                 <p>
                   Banyak sekali cerita yang mendasari perubahan saya yang terkenal <i>Troublemaker</i> menjadi seorang <i>Moodbooster</i>. Salah satu yang paling saya ingat adalah ketika saya mengacaukan sesuatu hingga membuat beberapa orang terdekat membenci saya dengan amat sangat, dan membuat saya berkaca melihat kesalahan saya,instropeksi dan membuahkan suatu prinsip yang saya bawa hingga sekarang adalah "<i>Membuat orang disekitar kita tertawa, adalah sesuatu yang sangat membahagiakan</i>" , anda tidak percaya? Cobalah.
                         </p>
@@ -79,7 +79,7 @@ class App extends Component {
             <div class="row">
               <div class="col-md-12">
                 <div class="section-heading">
-                  <h2>Skill</h2>
+                  <h2 >Skill</h2>
                   <div class="heading-line"></div>
                   <p>Beberapa kemampuan saya di bidang akademis dan non akademis</p>
                 </div>
@@ -120,7 +120,7 @@ class App extends Component {
                   </div>
                   <div class="progress">
                     <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger programming" role="progressbar"
-                       aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">35%</div>
+                       aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">65%</div>
                   </div>
                 </div>
                 <div class="wrap">
@@ -137,8 +137,8 @@ class App extends Component {
                     <h3>Menantu Idaman</h3>
                   </div>
                   <div class="progress">
-                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-success menantu" role="progressbar"
-                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">15%</div>
+                    <div class="progress-bar progress-bar-striped progress-bar-animated bg-info menantu" role="progressbar"
+                      aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">95%</div>
                   </div>
                 </div>
                 <div class="wrap">
