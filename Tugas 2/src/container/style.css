@@ -1,0 +1,34 @@
+.judul{
+    text-align: center;
+    padding: 2%;
+}
+
+.card {
+    border:1px solid black;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.buttons:hover{
+    background-color: rgb(49, 190, 49) ;
+}
+
+.buttons{
+    background-color: green;
+    width: 100%;
+}
+
+.cancel:hover{
+    /* background-color: rgb(255, 123, 0); */
+    background-color: rgb(49, 190, 49) ;
+}
+
+.cancel{
+    background-color: green;
+}
+
+h1{
+    margin-bottom: 50px;
+}

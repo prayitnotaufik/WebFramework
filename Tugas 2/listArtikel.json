@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1583398682963,
+      "title": "Artikel Pertama",
+      "body": "Ini adalah Artikel Pertama"
+    },
+    {
+      "userId": 1,
+      "id": 1583398691136,
+      "title": "Artikel Kedua",
+      "body": "Ini adalah Artikel Kedua"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
